@@ -1,0 +1,12 @@
+# CSC111 Final Project: Visualizing COVID-19 Vaccinations In the World
+
+# Testing and code checking
+hypothesis~=6.8.1
+pytest~=6.2.2
+python-ta~=1.6.3
+
+# Graphics and data visualization
+plotly~=4.14.3
+folium~=0.12.1
+psutil~=5.8.0
+kaleido~=0.2.1
